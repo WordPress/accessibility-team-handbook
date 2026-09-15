@@ -66,28 +66,28 @@
     "title": "The CSS class screen-reader-text",
     "slug": "the-css-class-screen-reader-text",
     "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/the-css-class-screen-reader-text.md",
-    "parent": null,
+    "parent": "best-practices",
     "order": 1
   },
   "best-practices/alternative-text-for-images": {
     "title": "Alternative text for images",
     "slug": "alternative-text-for-images",
     "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/alternative-text-for-images.md",
-    "parent": null,
+    "parent": "best-practices",
     "order": 2
   },
   "best-practices/skip-links": {
     "title": "Skip Links",
     "slug": "skip-links",
     "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/skip-links.md",
-    "parent": null,
+    "parent": "best-practices",
     "order": 3
   },
   "best-practices/test-for-web-accessibility": {
     "title": "Test for web accessibility",
     "slug": "test-for-web-accessibility",
     "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/test-for-web-accessibility.md",
-    "parent": null,
+    "parent": "best-practices",
     "order": 4
   },
   "accessibility-guidelines": {
