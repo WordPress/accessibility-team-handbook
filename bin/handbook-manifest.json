@@ -2,105 +2,105 @@
   "index": {
     "title": "Accessibility Team Handbook",
     "slug": null,
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/index.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/index.md",
     "parent": null,
     "order": -1
   },
   "about": {
     "title": "About the Accessibility Team",
     "slug": "about",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/about/index.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/about/index.md",
     "parent": null,
     "order": 1
   },
   "get-involved": {
     "title": "Get Involved",
     "slug": "get-involved",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/index.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/index.md",
     "parent": null,
     "order": 2
   },
   "get-involved/tickets-tasks-reports": {
     "title": "Accessibility tickets, tasks, and reports",
     "slug": "tickets-tasks-reports",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/tickets-tasks-reports.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/tickets-tasks-reports.md",
     "parent": "get-involved",
     "order": 1
   },
   "get-involved/audits-and-testing": {
     "title": "Audits and testing",
     "slug": "audits-and-testing",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/audits-and-testing.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/audits-and-testing.md",
     "parent": "get-involved",
     "order": 2
   },
   "get-involved/getting-started-at-a-contributor-day": {
     "title": "Get started at a contributor day",
     "slug": "getting-started-at-a-contributor-day",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/getting-started-at-contributor-day/index.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/getting-started-at-contributor-day/index.md",
     "parent": "get-involved",
     "order": 3
   },
   "get-involved/getting-started-at-a-contributor-day/accessibility-ready-theme-testing": {
     "title": "Accessibility-ready theme testing instructions",
     "slug": "accessibility-ready-theme-testing",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/getting-started-at-contributor-day/accessibility-ready-theme-testing.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/getting-started-at-contributor-day/accessibility-ready-theme-testing.md",
     "parent": "get-involved",
     "order": 1
   },
   "get-involved/reporting-issues": {
     "title": "Report accessibility issues",
     "slug": "reporting-issues",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/reporting-issues.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/reporting-issues.md",
     "parent": "get-involved",
     "order": 4
   },
   "get-involved/profile-badges": {
     "title": "Profile Badges",
     "slug": "profile-badges",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/get-involved/profile-badge.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/profile-badge.md",
     "parent": "get-involved",
     "order": 5
   },
   "best-practices": {
     "title": "Accessibility standards and best practices",
     "slug": "best-practices",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/best-practices/index.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/index.md",
     "parent": null,
     "order": 3
   },
   "best-practices/the-css-class-screen-reader-text": {
     "title": "The CSS class screen-reader-text",
     "slug": "the-css-class-screen-reader-text",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/best-practices/the-css-class-screen-reader-text.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/the-css-class-screen-reader-text.md",
     "parent": null,
     "order": 1
   },
   "best-practices/alternative-text-for-images": {
     "title": "Alternative text for images",
     "slug": "alternative-text-for-images",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/best-practices/alternative-text-for-images.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/alternative-text-for-images.md",
     "parent": null,
     "order": 2
   },
   "best-practices/skip-links": {
     "title": "Skip Links",
     "slug": "skip-links",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/best-practices/skip-links.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/skip-links.md",
     "parent": null,
     "order": 3
   },
   "best-practices/test-for-web-accessibility": {
     "title": "Test for web accessibility",
     "slug": "test-for-web-accessibility",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/best-practices/test-for-web-accessibility.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/best-practices/test-for-web-accessibility.md",
     "parent": null,
     "order": 4
   },
   "accessibility-guidelines": {
     "title": "Accessibility guidelines",
     "slug": "accessibility-guidelines",
-    "markdown_source": "https://github.com/wpaccessibility/accessibility-team-handbook/blob/main/accessibility-guidelines/index.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/accessibility-guidelines/index.md",
     "parent": null,
     "order": 4
   }
