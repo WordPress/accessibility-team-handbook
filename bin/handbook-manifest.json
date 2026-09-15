@@ -37,7 +37,7 @@
   "get-involved/getting-started-at-a-contributor-day": {
     "title": "Get started at a contributor day",
     "slug": "getting-started-at-a-contributor-day",
-    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/getting-started-at-contributor-day/index.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/getting-started-at-contributor-day.md",
     "parent": "get-involved",
     "order": 3
   },
@@ -51,7 +51,7 @@
   "get-involved/profile-badges": {
     "title": "Profile Badges",
     "slug": "profile-badges",
-    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/profile-badge.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/profiles-badges.md",
     "parent": "get-involved",
     "order": 5
   },
