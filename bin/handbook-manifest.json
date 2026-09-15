@@ -41,13 +41,6 @@
     "parent": "get-involved",
     "order": 3
   },
-  "get-involved/getting-started-at-a-contributor-day/accessibility-ready-theme-testing": {
-    "title": "Accessibility-ready theme testing instructions",
-    "slug": "accessibility-ready-theme-testing",
-    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/getting-started-at-contributor-day/accessibility-ready-theme-testing.md",
-    "parent": "get-involved",
-    "order": 1
-  },
   "get-involved/reporting-issues": {
     "title": "Report accessibility issues",
     "slug": "reporting-issues",
