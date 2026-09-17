@@ -51,7 +51,7 @@
   "get-involved/profile-badges": {
     "title": "Profile Badges",
     "slug": "profile-badges",
-    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/profiles-badges.md",
+    "markdown_source": "https://github.com/WordPress/accessibility-team-handbook/blob/main/get-involved/profile-badges.md",
     "parent": "get-involved",
     "order": 5
   },
