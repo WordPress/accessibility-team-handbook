@@ -1,6 +1,6 @@
 # WordPress Accessibility Team Handbook
 
-Welcome to the Accessibility Team Handbook. Here you can find information about the [WordPress Accessibiliy Team](https://make.wordpress.org/accessibility/handbook/about/), how to [get involved in WordPress accessibility](https://make.wordpress.org/accessibility/handbook/get-involved/), where to find the [accessibility standards and best practices](https://make.wordpress.org/accessibility/handbook/best-practices/), and how to [report an accessibility issue](https://make.wordpress.org/accessibility/handbook/get-involved/tickets-tasks-reports/) in WordPress.
+Welcome to the Accessibility Team Handbook. Here you can find information about the [WordPress Accessibility Team](https://make.wordpress.org/accessibility/handbook/about/), how to [get involved in WordPress accessibility](https://make.wordpress.org/accessibility/handbook/get-involved/), where to find the [accessibility standards and best practices](https://make.wordpress.org/accessibility/handbook/best-practices/), and how to [report an accessibility issue](https://make.wordpress.org/accessibility/handbook/get-involved/tickets-tasks-reports/) in WordPress.
 
 The Accessibility Team works to make WordPress accessible to as many people as possible. This means making sure people are not just able to read web pages but also to create and maintain websites.
 
