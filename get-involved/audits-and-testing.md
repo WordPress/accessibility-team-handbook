@@ -1,4 +1,4 @@
-# Accessibility Audits and testing
+# Accessibility audits and testing
 
 WordPress regularly improves its features and creates new core themes. The accessibility team monitors these changes and tests them for web accessibility.
 

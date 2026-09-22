@@ -27,4 +27,4 @@ To receive a Team Profile Badge with the WordPress Accessibility Team, you must 
 
 ## Requesting an accessibility profile badge
 
-Profile Badges for this team are awarded manually for both Contributor or Teams. If you believe you’ve earned a Profile Badge, post a message in the [#accessibility Slack channel](https://wordpress.slack.com/archives/accessibility) and somebody will follow up. In your request, please provide links to resources that demonstrate you have met the criteria mentioned above.
+Profile badges for this team are awarded manually for both Contributor or Teams. If you believe you’ve earned a Profile badge, post a message in the [#accessibility Slack channel](https://wordpress.slack.com/archives/accessibility) and somebody will follow up. In your request, please provide links to resources that demonstrate you have met the criteria mentioned above.
