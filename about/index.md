@@ -12,7 +12,7 @@ Team meetings are held every two weeks in the #accessibility channel on Slack. C
 
 The team monitors the accessibility of WordPress' new releases and gives feedback with fixes and discussions. 
 
-Known issues for core are tracked in tickets with a [focus on accessibility](https://make.wordpress.org/accessibility/handbook/about/accessibility-improvement-project/) on WordPress Trac and in issues [Focus Accessibility (a11y)](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22%5BFocus%5D%20Accessibility%20(a11y)%22) in GitHub repository for the Gutenberg block editor.
+Known issues for core are tracked in tickets with a [focus on accessibility](https://core.trac.wordpress.org/focus/accessibility) on WordPress Trac and in issues [Focus Accessibility (a11y)](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22%5BFocus%5D%20Accessibility%20(a11y)%22) in GitHub repository for the Gutenberg block editor.
 
 The team also reviews accessibility in the [themes that ship with WordPress](https://wordpress.org/themes/author/wordpressdotorg/).
 
