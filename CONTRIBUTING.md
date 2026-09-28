@@ -18,13 +18,13 @@ All documentation is written in plain text using the Markdown format. Don't worr
 
 Either way, please include a description of the purpose behind the change so that it's easy for folks to review.
 
-Any edit requires a review from two hosting team members before being merged. Reviews can be requested in the upper right of the Pull Request form.
+Any edit requires a review from two accessibility team members before being merged. Reviews can be requested in the upper right of the Pull Request form.
 
 ## Assets in pages
 
 Assets such as images are not automatically imported into the Handbook. Because of that, assets must be included in Pull Requests within the `/assets/` directory in the repo for tracking.
 
-If you are merging a Pull Request with assets, please upload the assets to the [WordPress Hosting Handbook's media library](https://make.wordpress.org/accessibility/wp-admin/upload.php) before merge and link to the uploaded media directly.
+If you are merging a Pull Request with assets, please upload the assets to the [WordPress Accessibility Team Handbook's media library](https://make.wordpress.org/accessibility/wp-admin/upload.php) before merge and link to the uploaded media directly.
 
 ## Generating manifest
 
