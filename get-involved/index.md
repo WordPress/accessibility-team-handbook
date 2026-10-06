@@ -16,7 +16,7 @@ Each new version of WordPress brings accessibility improvements. The more discus
 
 ### WordPress core and the block editor
 
-Monitor the broad accessibility of WordPress core, and any areas of WordPress not covered by another working group. Monitors and contributes to tickets in the [core Trac](https://core.trac.wordpress.org/query?status=!closed&focuses=~accessibility). The general team is primarily developers and testers.
+Monitor the broad accessibility of WordPress core, and any areas of WordPress not covered by another working group. Monitor and contribute to tickets in the [core Trac](https://core.trac.wordpress.org/query?status=!closed&focuses=~accessibility). The general team is primarily developers and testers.
 
 - Writing patches for accessibility trac tickets
 - Give code examples for trac tickets (the expected output)
@@ -45,7 +45,7 @@ We review themes for the WordPress.org repo [labelled with the accessibility-rea
 
 ## Need more info?
 
-For any other questions and/or suggestions go to accessibility channel on Slack and ping any of the contacts mentioned above.
+For any other questions and/or suggestions go to the accessibility channel on Slack and ping any of the contacts mentioned above.
 
 ## How do you get in touch?
 
