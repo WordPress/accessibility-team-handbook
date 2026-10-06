@@ -12,7 +12,7 @@ This document covers the technical details around setup and submitting your cont
 
 Pull Requests are welcome!
 
-Please feel free to start a Pull Request (PR) by [using the "Edit" button](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository) next to one of the Handbook pages, or by [forking and cloning the repo](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) (check the [Forks](https://github.com/WordPress/hosting-handbook/network/members)).
+Please feel free to start a Pull Request (PR) by [using the "Edit" button](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository) next to one of the Handbook pages, or by [forking and cloning the repo](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) (check the [Forks](https://github.com/WordPress/accessibility-team-handbook/network/members)).
 
 All documentation is written in plain text using the Markdown format. Don't worry about any specific flavor of Markdown it's checked and cleaned before generating it to HTML.
 

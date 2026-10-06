@@ -41,7 +41,7 @@ Accessibility tickets on WordPress trac are grouped by topics. We use custom key
 - [Color contrast](https://core.trac.wordpress.org/query?keywords=~color-contrast)
 - [Best practices for required fields in forms](https://core.trac.wordpress.org/query?keywords=~required-fields)
 - [Use buttons for buttons, links for links](https://core.trac.wordpress.org/query?keywords=~semantic-buttons)
-- [Review usage of target=”_blank”](https://core.trac.wordpress.org/query?keywords=~target-blank)
+- [Review usage of `target="_blank"`](https://core.trac.wordpress.org/query?keywords=~target-blank)
 - [Standardize the types of search in the core admin](https://core.trac.wordpress.org/query?keywords=~uniform-search)
 - [Use aria-current where appropriate](https://core.trac.wordpress.org/query?keywords=~aria-current)
 - [Settings API improvements](https://core.trac.wordpress.org/query?keywords=~settings-api)
