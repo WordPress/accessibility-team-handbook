@@ -1,7 +1,7 @@
 # The CSS class screen-reader-text
 
 <div class="callout callout-info">
-**Note**: Best practices are no longer published in the Accessibility Handbook.
+<strong>Note</strong>: Best practices are no longer published in the Accessibility Handbook.
 </div>
 
 Find the information about the `screen-reader-text` CSS class in: 
