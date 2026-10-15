@@ -1,7 +1,7 @@
 # Alternative text for images
 
 <div class="callout callout-info">
-<strong>Note</strong>: Best practices are no longer published in the Accessibility Handbook.
+<strong>Note</strong>: Best practices are no longer published in the Accessibility Team Handbook.
 </div>
 
 Find the information about alternative text for images in:

@@ -35,7 +35,7 @@ To help and educate the community, the team writes documentation about accessibi
 - [WP Accessibility Knowledge Base](https://wpaccessibility.org/), extended documentation about web accessibility for WordPress users and creators.
 - [Accessibility Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/accessibility/) for WordPress core.
 - [Theme developers handbook](https://developer.wordpress.org/themes/functionality/accessibility/), the section about accessibility, with accessibility requirements for themes submitted to the [themes repository](https://wordpress.org/themes/).
-- [Accessibility handbook](https://make.wordpress.org/accessibility/handbook/), about the team and their work.
+- [Accessibility Team Handbook](https://make.wordpress.org/accessibility/handbook/), about the team and their work.
 - [About accessibility](https://wordpress.org/about/accessibility/), the main information about WordPress' accessibility.
 
 Contact: Rian Rietveld (@rianrietveld).
