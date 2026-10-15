@@ -1,7 +1,7 @@
 # Skip links
 
 <div class="callout callout-info">
-**Note**: Best practices are no longer published in the Accessibility Handbook.
+<strong>Note</strong>: Best practices are no longer published in the Accessibility Team Handbook.
 </div>
 
 Find the information about skip links in:  

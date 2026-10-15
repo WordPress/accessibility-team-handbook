@@ -32,7 +32,7 @@ In the [Themes Directory](https://wordpress.org/themes/) on WordPress.org, selec
 ![WordPress.org themes directory filter with Accessibility Ready tag checked.](https://make.wordpress.org/accessibility/files/2026/07/a11y-themes-filter.png)
 
 <div class="callout callout-info">
-**Note**: accessibility-ready does not mean a theme meets WCAG guidelines at level AA. It means that the theme reaches the minimum standards that the Accessibility team has set.
+<strong>Note</strong>: accessibility-ready does not mean a theme meets WCAG guidelines at level AA. It means that the theme reaches the minimum standards that the Accessibility team has set.
 </div>
 
 Do you want to get your theme listed as ‘Accessibility Ready’ in the Themes Repo? See the [themes review handbook](https://make.wordpress.org/themes/handbook/review/accessibility/) for more information. 

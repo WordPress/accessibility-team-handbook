@@ -1,7 +1,7 @@
 # Accessibility standards and best practices
 
 <div class="callout callout-info">
-**Note**: The documentation about accessibility itself and about the `accessibility-ready` requirements is currently published on the <a href="https://wpaccessibility.org/">WP Accessibility Knowledge Base</a>.
+<strong>Note</strong>: The documentation about accessibility itself and about the `accessibility-ready` requirements is currently published on the <a href="https://wpaccessibility.org/">WP Accessibility Knowledge Base</a>.
 </div>
 
 There you can find information about:
