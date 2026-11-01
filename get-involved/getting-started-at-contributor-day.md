@@ -42,4 +42,4 @@ The section [Set up testing for the WordPress themes accessibility-ready program
 
 The team members can give workshops on request at a contributor day. For example, on how to test for accessibility or how to use a keyboard to navigate a website.
 
-You can also ask questions you have about the accessibility of your work of the table leads or other attendees that may be able to help you.
+You can also ask the table leads, or other attendees who may be able to help you, questions about the accessibility of your work.

@@ -22,7 +22,7 @@ To receive a Team Profile Badge with the WordPress Accessibility Team, you must 
 - Actively serve as WordPress Accessibility Team Representative.
 - Attend and participate in WordPress Accessibility Team meetings (currently bi-weekly).
 - Lead the Accessibility Table at a Contributor Day at a WordCamp.
-- Regulary review themes  for the [accessibility-ready program](https://wpaccessibility.org/docs/accessibility-ready/).
+- Regularly review themes for the [accessibility-ready program](https://wpaccessibility.org/docs/accessibility-ready/).
 
 
 ## Requesting an accessibility profile badge
