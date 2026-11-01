@@ -47,4 +47,4 @@ Creating a plugin that supports accessibility is mostly about setting healthy de
 - checking that default color contrast meets standards,
 - that the HTML structure uses semantically correct code.
 
-Extended information about web accessibility and how to test and to apply this for your work is documented in the [WP Accessibility Knowledge Base](https://wpaccessibility.org/docs/accessibility-ready/).
+Extended information about web accessibility and how to test and to apply this for your work is documented in the [WP Accessibility Knowledge Base](https://wpaccessibility.org/).
