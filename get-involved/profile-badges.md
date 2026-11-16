@@ -5,19 +5,19 @@ This page offers information about Accessibility Contributor and Team [Profile B
 
 ## WordPress Accessibility contributor profile badge criteria
 
-A contributor to the WordPress Accessibility Team can be recognized for their contribution/contributions to the Accessibility Contributor Badge. Contributions can include:
+A contributor to the WordPress Accessibility Team can be recognized for their contributions with the Accessibility Contributor Badge. Contributions can include:
 
 - Facilitating a bug-scrub session.
 - Commit, Comment on, or report accessibility issues to the WordPress open-source project on [GitHub](https://github.com/wordpress) or on [Trac](https://core.trac.wordpress.org/).
-- Help the WordPress Accessibility Team with the Weekly Meeting with administrative work such as posting an agenda or writing a follow-up for the meeting.
-- Update, suggest an edit, or draft new documents in the [Accessibility Team Handbook](https://make.wordpress.org/accessibility/handbook/) or the [WordPress Accessibility Documentation](https://wpaccessibility.org/)
+- Help the WordPress Accessibility Team with the bi-weekly meeting by doing administrative work such as posting an agenda or writing a follow-up for the meeting.
+- Update, suggest an edit, or draft new documents in the [Accessibility Team Handbook](https://make.wordpress.org/accessibility/handbook/) or the [WordPress Accessibility Documentation](https://wpaccessibility.org/).
 - Contribute to the accessibility, or content about accessibility, of sites on WordPress.org, including learn.wordpress.org, wordpress.tv, or any of the other sites.
 
 ## WordPress Accessibility Team profile badge criteria
 
 To receive a Team Profile Badge with the WordPress Accessibility Team, you must actively contribute regularly or take a leadership role in the team. These contributions include:
 
-- Regularly participating in, contributing to, or moderating weekly team bug scrubs.
+- Regularly participate in, contribute to, or moderate weekly team bug scrubs.
 - Regularly commit, comment on, and report accessibility issues to the WordPress open-source project on [GitHub](https://github.com/wordpress) or on [Trac](https://core.trac.wordpress.org/).
 - Actively serve as WordPress Accessibility Team Representative.
 - Attend and participate in WordPress Accessibility Team meetings (currently bi-weekly).
@@ -27,4 +27,4 @@ To receive a Team Profile Badge with the WordPress Accessibility Team, you must 
 
 ## Requesting an accessibility profile badge
 
-Profile badges for this team are awarded manually for both Contributor or Teams. If you believe you’ve earned a Profile badge, post a message in the [#accessibility Slack channel](https://wordpress.slack.com/archives/accessibility) and somebody will follow up. In your request, please provide links to resources that demonstrate you have met the criteria mentioned above.
+Profile badges for this team are awarded manually for both Contributor and Team badges. If you believe you’ve earned a Profile badge, post a message in the [#accessibility Slack channel](https://wordpress.slack.com/archives/accessibility) and somebody will follow up. In your request, please provide links to resources that demonstrate you have met the criteria mentioned above.
